@@ -1,10 +1,13 @@
-<!doctype html>
-<html>
-	<head>
-	
-	</head>
+<?php
+include "includes/head.php";
+include "header.php";
+?> 
 <body>
-this is a test.
+
+
+
 </body>
 
-</html>
+<?php
+include "includes/footer.php";
+?>
